@@ -1,0 +1,7 @@
+== Stipend
+
+This is a basic rails project... just a couple of static views setup.
+
+== Fork and Branch
+
+Please fork this repo, and create your own branch. Make changes to your forked branch and submit a pull request to the main repo for revue.
